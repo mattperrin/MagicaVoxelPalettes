@@ -14,7 +14,7 @@ The Atari 2600 palette is based on the "Stella" NTSC color palette.
 The CMYK "comic book" palettes are based on the following item:
 [Comics Color](http://facweb.cs.depaul.edu/sgrais/comics_color.htm)
 
-![Alt text](/Examples/ComicBook CYMK Values.jpg?raw=true "Comic book CMYK values in a traditional layout.")
+![Alt text](/Examples/ComicBook CYMK Values -Rotated.jpg?raw=true "Comic book CMYK values in a traditional layout.")
 
 ![Alt text](/Examples/ComicBook ColorPlates.jpg?raw=true "Comic book CMYK using a color plate layout.")
 
