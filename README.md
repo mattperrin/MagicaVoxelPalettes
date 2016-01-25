@@ -19,9 +19,12 @@ The CMYK "comic book" palettes are based on the following item:
 ![Alt text](/Examples/ComicBook ColorPlates.jpg?raw=true "Comic book CMYK using a color plate layout.")
 
 
-# Hue based pattern
+# Hue based pattern by Valaadus
 
 The default MagicaVoxel palette reorganized into something my eyes can see.  :)
+
+Originally found on Reddit. Saving it here so it doesn't get lost.
+https://www.reddit.com/r/TroveCreations/comments/2iqj6t/more_userfriendly_palette_for_magicavoxel/
 
 ![Alt text](/Examples/HuePaletteExample.ByValaadus.png?raw=true "Default palette reorganized.")
 
